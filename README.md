@@ -313,7 +313,7 @@ Beyond achieving strong predictive performance, the project emphasizes translati
 
 **Deepak Behera**
 
-Aspiring Business Analyst | Data Analyst | Machine Learning Enthusiast
+Aspiring Business Analyst | Data Analyst
 
 **Skills:** SQL • Python • Power BI • Excel • Machine Learning • Data Visualization • Business Analytics
 
